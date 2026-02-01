@@ -8,6 +8,7 @@ See [https://getcomposer.org/](https://getcomposer.org/) for more information an
 [![Build Status](https://travis-ci.org/composer/composer.svg?branch=master)](https://travis-ci.org/composer/composer)
 [![Dependency Status](https://www.versioneye.com/php/composer:composer/dev-master/badge.svg)](https://www.versioneye.com/php/composer:composer/dev-master)
 [![Reference Status](https://www.versioneye.com/php/composer:composer/reference_badge.svg?style=flat)](https://www.versioneye.com/php/composer:composer/references)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcomposer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcomposer?ref=badge_shield)
 
 Installation / Usage
 --------------------
@@ -64,3 +65,7 @@ Acknowledgments
   [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver).
 - This project uses hiddeninput.exe to prompt for passwords on windows, sources
   and details can be found on the [github page of the project](https://github.com/Seldaek/hidden-input).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcomposer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcomposer?ref=badge_large)
